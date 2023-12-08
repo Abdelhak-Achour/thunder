@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+# folders
+
+/src/homeslides
+/src/fonts
+
 # testing
 /coverage
 
